@@ -16,7 +16,7 @@ System.out.println(" Sum of Two number is ");
 	public int Subtract (int num1, int num2)
 
 	{
-
+		System.out.println(" Subtract of Two number is ");
 	return num1 - num2;
 
 	}
